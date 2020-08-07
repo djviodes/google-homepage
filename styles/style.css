@@ -1,34 +1,42 @@
-#gb {
-    font-size: 13px;
-}
-#hptl {
+.aB a {
     position: absolute;
-    margin: 7px 0 0 10px;
-}
-#hptl a {
-    display: inline-block;
-    padding-top: 15px;
-    padding-left: 15px;
+    top: 23px;
+    left: 25px;
     color: #000;
     opacity: 0.75;
+    font-family: sans-serif;
     font-size: 13px;
-
-}
-a:link {
-    color: black;
     text-decoration: none;
 }
-a:visited {
-    color: purple;
+.sT a {
+    position: absolute;
+    top: 23px;
+    left: 73.5px;
+    color: #000;
+    opacity: 0.75;
+    font-family: sans-serif;
+    font-size: 13px;
     text-decoration: none;
 }
-a:hover {
-    color: blue;
-    text-decoration: underline;
+.gM a {
+    position: absolute;
+    top: 23px;
+    right: 178.5px;
+    color: #000;
+    opacity: 0.75;
+    font-family: sans-serif;
+    font-size: 13px;
+    text-decoration: none;
 }
-a:active {
-    color: red;
-    text-decoration: underline;
+.iM a {
+    position: absolute;
+    top: 23px;
+    right: 120px;
+    color: #000;
+    opacity: 0.75;
+    font-family: sans-serif;
+    font-size: 13px;
+    text-decoration: none;
 }
 img[src] {
     width: 272px;
