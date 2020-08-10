@@ -76,10 +76,30 @@
     display: block;
     margin: 0 auto;
     padding: 30px;
-    padding-top: 150px;
+    padding-top: 190px;
 }
 .gS {
     text-align: center;
+}
+#sRcHiCn {
+    opacity: 0.6;
+    padding-top: 8px;
+    padding-left: 10px;
+}
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
 }
 #search {
     flex: 1;
@@ -91,6 +111,7 @@
     min-height: 38px;
     border: 0.5px solid #c0c0c0;
     border-radius: 40px;
+    font-size: 22px;
 }
 #search:hover {
     box-shadow: 0 0 5px #C0C0C0;
@@ -112,4 +133,86 @@
 }
 .GsIfL:hover {
     border: 1px solid #C0C0C0;
+    color: #000000;
+}
+#fbar {
+    position: fixed;
+    right: 1px;
+    bottom: 1px;
+    left: 1px;
+    background: #f2f2f2;
+    line-height: 40px;
+    min-width: 980px;
+    border-top: 1px solid #e4e4e4;
+}
+.AdV {
+    margin-left: 29px;
+    color: #000000;
+    opacity: 0.6;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+.AdV:hover {
+    text-decoration: underline;
+}
+.bUs {
+    position: fixed;
+    left: 126px;
+    color: #000000;
+    opacity: 0.6;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+.bUs:hover {
+    text-decoration: underline;
+}
+.HsW {
+    position: fixed;
+    left: 210px;
+    color: #000000;
+    opacity: 0.6;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+.HsW:hover {
+    text-decoration: underline;
+}
+.pRvTe {
+    position: fixed;
+    right: 173px;
+    color: #000000;
+    opacity: 0.6;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+.pRvTe:hover {
+    text-decoration: underline;
+}
+.tRmS {
+    position: fixed;
+    right: 108px;
+    color: #000000;
+    opacity: 0.6;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+.tRmS:hover {
+    text-decoration: underline;
+}
+.sEt {
+    position: fixed;
+    right: 29px;
+    color: #000000;
+    opacity: 0.6;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+.sEt:hover {
+    text-decoration: underline;
 }
