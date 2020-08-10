@@ -1,4 +1,4 @@
-.aB a {
+.about a {
     position: absolute;
     top: 23px;
     left: 25px;
@@ -8,10 +8,10 @@
     font-size: 13px;
     text-decoration: none;
 }
-.aB a:hover {
+.about a:hover {
     text-decoration: underline;
 }
-.sT a {
+.store a {
     position: absolute;
     top: 23px;
     left: 73.5px;
@@ -21,10 +21,10 @@
     font-size: 13px;
     text-decoration: none;
 }
-.sT a:hover {
+.store a:hover {
     text-decoration: underline;
 }
-.gM a {
+.gmail a {
     position: absolute;
     top: 23px;
     right: 177px;
@@ -34,10 +34,10 @@
     font-size: 13px;
     text-decoration: none;
 }
-.gM a:hover {
+.gmail a:hover {
     text-decoration: underline;
 }
-.iM a {
+.image a {
     position: absolute;
     top: 23px;
     right: 120px;
@@ -47,59 +47,39 @@
     font-size: 13px;
     text-decoration: none;
 }
-.iM a:hover {
+.image a:hover {
     text-decoration: underline;
 }
-.Sq4 {
+.squares {
     width: 5px;
     position: absolute;
     top: 20px;
     right: 97px;
 }
-.Sq4iMg {
+.squaresImage {
     width: 23px;
 }
-.pI {
+.profileIcon {
     width: 1px;
     position: absolute;
     top: 15px;
     right: 60px;
 }
-.pIiMg {
+.profileIconImage {
     width: 32px;
     border-radius: 50%;
 }
-.GgLeImG[src] {
+.googleImage[src] {
     width: 272px;
 }
-.GgLeImG {
+.googleImage {
     display: block;
     margin: 0 auto;
     padding: 30px;
     padding-top: 190px;
 }
-.gS {
+.googleSearch {
     text-align: center;
-}
-#sRcHiCn {
-    opacity: 0.6;
-    padding-top: 8px;
-    padding-left: 10px;
-}
-.material-icons {
-    font-family: 'Material Icons';
-    font-weight: normal;
-    font-style: normal;
-    font-size: 24px;
-    line-height: 1;
-    letter-spacing: normal;
-    text-transform: none;
-    display: inline-block;
-    white-space: nowrap;
-    word-wrap: normal;
-    direction: ltr;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
 }
 #search {
     flex: 1;
@@ -116,7 +96,7 @@
 #search:hover {
     box-shadow: 0 0 5px #C0C0C0;
 }
-.GsIfL {
+.googleSearchImFeelingLucky {
     background-color: #f2f2f2;
     border: 1px solid #f2f2f2;
     border-radius: 4px;
@@ -131,11 +111,11 @@
     text-align: center;
     cursor: pointer;
 }
-.GsIfL:hover {
+.googleSearchImFeelingLucky:hover {
     border: 1px solid #C0C0C0;
     color: #000000;
 }
-#fbar {
+#footerBar {
     position: fixed;
     right: 1px;
     bottom: 1px;
@@ -145,7 +125,7 @@
     min-width: 980px;
     border-top: 1px solid #e4e4e4;
 }
-.AdV {
+.advertising {
     margin-left: 29px;
     color: #000000;
     opacity: 0.6;
@@ -153,10 +133,10 @@
     font-size: 14px;
     text-decoration: none;
 }
-.AdV:hover {
+.advertising:hover {
     text-decoration: underline;
 }
-.bUs {
+.business {
     position: fixed;
     left: 126px;
     color: #000000;
@@ -165,10 +145,10 @@
     font-size: 14px;
     text-decoration: none;
 }
-.bUs:hover {
+.business:hover {
     text-decoration: underline;
 }
-.HsW {
+.howSearchWorks {
     position: fixed;
     left: 210px;
     color: #000000;
@@ -177,10 +157,10 @@
     font-size: 14px;
     text-decoration: none;
 }
-.HsW:hover {
+.howSearchWorks:hover {
     text-decoration: underline;
 }
-.pRvTe {
+.privacy {
     position: fixed;
     right: 173px;
     color: #000000;
@@ -189,10 +169,10 @@
     font-size: 14px;
     text-decoration: none;
 }
-.pRvTe:hover {
+.privacy:hover {
     text-decoration: underline;
 }
-.tRmS {
+.terms {
     position: fixed;
     right: 108px;
     color: #000000;
@@ -201,10 +181,10 @@
     font-size: 14px;
     text-decoration: none;
 }
-.tRmS:hover {
+.terms:hover {
     text-decoration: underline;
 }
-.sEt {
+.settings {
     position: fixed;
     right: 29px;
     color: #000000;
@@ -213,6 +193,6 @@
     font-size: 14px;
     text-decoration: none;
 }
-.sEt:hover {
+.settings:hover {
     text-decoration: underline;
 }
